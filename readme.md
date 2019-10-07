@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/Prasheel24/Week6.svg?branch=master)](https://travis-ci.org/Prasheel24/Week6.svg?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/Prasheel24/Week6/badge.svg?branch=master)](https://coveralls.io/github/Prasheel24/Week6?branch=master)
+[![Build Status](https://travis-ci.org/Prasheel24/Week6.svg?branch=valgrind_excercise)](https://travis-ci.org/Prasheel24/Week6.svg?branch=valgrind_excercise)
+[![Coverage Status](https://coveralls.io/repos/github/Prasheel24/Week6/badge.svg?branch=valgrind_excercise)](https://coveralls.io/github/Prasheel24/Week6?branch=valgrind_excercise)
 ---
 
 ## Author 
