@@ -20,8 +20,11 @@
 
 class AnalogSensor{
  public:
+    /*constructor*/
     explicit AnalogSensor(unsigned int samples);
-    ~AnalogSensor();
+    /*destructor*/
+    ~AnalogSensor(); 
+    /*read input function*/
     int Read();
  private:
     unsigned int mSamples;
