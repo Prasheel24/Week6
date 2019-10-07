@@ -13,7 +13,12 @@
 // *
 // */
 #include <gtest/gtest.h>
+#include "AnalogSensor.hpp"
 
-TEST(dummy, should_pass) {
-  EXPECT_EQ(1, 1);
+/**
+ *  @brief  Test Analog Sensor read function\
+ */
+TEST(AnalogSensor, TestAnalogSensor) {
+  AnalogSensor testLightSensor = AnalogSensor(5);  
+  ASSERT_EQ(testLightSensor.Read(),10);
 }
