@@ -47,7 +47,7 @@ make
 valgrind --leak-check=full ./app/shell-app
 ```
 
-## Valgrind FullCheck
+## Valgrind Memory Profiler- KCacheGrind
 ```
 cmake .
 make
